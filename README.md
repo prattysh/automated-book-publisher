@@ -1,4 +1,4 @@
-# Automated Book Publisher (with AI + Human-in-the-loop Editing)
+# Automated Book Publisher
 
 This project automates the end-to-end workflow of publishing chapters from classic books by combining AI rewriting, grammar polishing, human editing, and vector storage.
 
