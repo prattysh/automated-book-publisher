@@ -27,7 +27,7 @@ def main():
     save_to_chroma("chapter1_final", final_version)
 
     result = retrieve_from_chroma("modern version of chapter 1")
-    print("🔍 Retrieved:\n")
+    print(" Retrieved:\n")
     text = result[0] 
     print(text.encode('utf-8').decode('unicode_escape'))
 
